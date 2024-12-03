@@ -3,3 +3,6 @@ __pycache__/
 data/combined_df.json
 .DS_Store
 .env
+data/*.json
+data/*.json.gz
+data/.ipynb_checkpoints/
