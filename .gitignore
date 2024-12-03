@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/combined_df.json
+.DS_Store
+.env
